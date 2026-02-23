@@ -5,8 +5,8 @@
    Tutorial 12
    Tutorial Case
 
-   Author: 
-   Date:   
+   Author: Lukas Haupt
+   Date:   2/23/26
 
    Filename: bc_switch.js
    
